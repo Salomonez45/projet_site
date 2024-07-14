@@ -1,0 +1,180 @@
+*{
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(3d-mountain-landscape-against-sunset-sky.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%,100% ;
+}
+nav{
+    border: solid;
+    height: 200px;
+}
+li{
+    margin-top: 9px;
+    list-style: none;
+}
+
+.A{
+    display: flex;
+}
+.A4{
+    margin-left: 470px;
+    margin-top: 70px;
+}
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+.A5{
+    margin-top: -3px;
+    margin-left: 1050px;
+    border: solid;
+    background-size: 50px;
+}
+#A11{
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 20px;
+    color: white;
+}
+.A1:hover{
+    animation: animation 1s infinite;
+    border-radius: 30px;
+    padding: 8px 8px;
+}
+.A2:hover{
+    
+    animation: animation 1s infinite;
+    border-radius: 30px;
+    padding: 8px 8px;
+}
+.A3:hover{
+   
+    animation: animation 1s infinite;
+    border-radius: 30px;
+    padding: 8px 8px;
+}
+@keyframes animation {
+    to{
+        background-blend-mode: luminosity;
+        background-color: black;
+        transition-duration: 1s;
+    }
+       
+}
+
+
+
+
+
+
+
+
+
+.B{
+    margin-top: 4px;
+}
+.B1{
+    border-radius: 3px;
+    margin-left: 500px;
+    height: 25px;
+    width: 230px;
+}
+.B2{
+    color: black;
+}
+.B3{
+    border-radius: 3px;
+}
+.B4{
+    border: solid;
+    width: 80%;
+    height: 170px;
+    border-radius: 10px;
+    margin-top: 8px;
+    display: flex;
+    margin-left: 110px;
+    background-color: rgba(0,0,0, 0.5);
+}
+.B5:hover{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px 5px;
+    border-radius: 20px;
+    text-decoration: none;
+    animation: animation 1s infinite;
+}
+.B6:hover{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px 5px;
+    border-radius: 20px;
+    text-decoration: none;
+    animation: animation 1s infinite;
+}
+.B7:hover{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px 5px;
+    border-radius: 20px;
+    text-decoration: none;
+    animation: animation 1s infinite;
+}
+.B8:hover{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px 5px;
+    border-radius: 20px;
+    text-decoration: none;
+    animation: animation 1s infinite;
+}
+.B9:hover{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px 5px;
+    border-radius: 20px;
+    text-decoration: none;
+    animation: animation 1s infinite;
+}
+.B10:hover{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px 5px;
+    border-radius: 20px;
+    text-decoration: none;
+    animation: animation 1s infinite;
+}
+
+
+
+
+
+
+
+
+.C{
+    width: 80%;
+    height: 400px;
+    border: solid;
+    margin-left: 110px;
+    margin-top: 10px;
+    background-color: rgba(1, 1, 1, 0.5);
+}
+.C11{
+    font-family: fantasy;
+    color:aliceblue;
+}
+.C11:hover{
+    color:rgb(219, 7, 49)
+}
+
+
+
+
+
+
+.D{
+    width: 50%;
+    height: 300px;
+    border: solid;
+    margin-top: 10px;
+    margin-left: 110px;
+}
